@@ -27,7 +27,7 @@ int main(){
         printf("o valor que é devolvido pela confirmação: %d", confirmacao);
     } else if (confirmacao<=1)
     {
-        puts("A primiera senha é maior");
+        puts("A primeira senha é maior");
         printf("o valor que é devolvido pela confirmação: %d", confirmacao);
     }
 
